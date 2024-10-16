@@ -14,6 +14,11 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @Getter
 @Setter
 @Entity

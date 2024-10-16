@@ -1,5 +1,10 @@
 package com.ticketrush.gds.theatre.service;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 public interface MovieService {
 
     MovieResponse createMovie(MovieRequest movieRequest);

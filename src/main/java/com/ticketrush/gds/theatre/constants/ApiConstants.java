@@ -1,5 +1,10 @@
 package com.ticketrush.gds.theatre.constants;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 public final class ApiConstants {
 
     private ApiConstants() {}
