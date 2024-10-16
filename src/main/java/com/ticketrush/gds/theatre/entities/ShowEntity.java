@@ -3,13 +3,15 @@ package com.ticketrush.gds.theatre.entities;
 import jakarta.persistence.*;
 import lombok.*;
 import net.minidev.json.annotate.JsonIgnore;
-import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.LastModifiedDate;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
-import java.util.Date;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @Getter
 @Setter
 @Entity

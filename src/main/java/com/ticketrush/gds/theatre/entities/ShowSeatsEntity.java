@@ -7,6 +7,11 @@ import net.minidev.json.annotate.JsonIgnore;
 
 import java.util.Date;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @Getter
 @Setter
 @Entity

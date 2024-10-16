@@ -2,6 +2,11 @@ package com.ticketrush.gds.theatre.adapter;
 
 import lombok.experimental.UtilityClass;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @UtilityClass
 public class MovieAdapter {
 

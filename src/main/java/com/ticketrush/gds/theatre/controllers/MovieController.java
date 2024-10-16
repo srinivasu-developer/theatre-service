@@ -9,6 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import static com.ticketrush.gds.theatre.constants.ApiConstants.MOVIES_URI;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @Slf4j
 @RestController
 @RequestMapping(MOVIES_URI)

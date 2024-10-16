@@ -4,6 +4,11 @@ import jakarta.persistence.*;
 import lombok.*;
 import net.minidev.json.annotate.JsonIgnore;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @Getter
 @Setter
 @Entity

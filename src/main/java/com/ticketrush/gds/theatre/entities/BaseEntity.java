@@ -9,6 +9,11 @@ import org.springframework.data.annotation.LastModifiedDate;
 
 import java.time.LocalDateTime;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 @MappedSuperclass
 public abstract class BaseEntity {
 

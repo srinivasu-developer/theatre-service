@@ -2,6 +2,11 @@ package com.ticketrush.gds.theatre.service.impl;
 
 import com.ticketrush.gds.theatre.service.MovieService;
 
+/**
+ *
+ * Author: srinivasun
+ * Since: 15/10/24
+ */
 public class MovieServiceImpl implements MovieService {
 
     @Override
